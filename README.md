@@ -53,10 +53,11 @@ Verilog-4Bit-ALU/
 │   ├── rtl_schematic.png
 │   └── simulation_waveform.png
 └── README.md
-Tools Used
 
-​Language: Verilog HDL
-​IDE: Xilinx Vivado 2025.2
-​Simulation: Vivado Simulator
+## Tools Used
+
+* **​Language:** Verilog HDL
+* **​IDE**: Xilinx Vivado 2025.2
+​* **Simulation**: Vivado Simulator
 
 
